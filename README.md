@@ -1,5 +1,5 @@
-# Gestor_Documental
-Gestor_Documental elaborado con la empresa "intuye.es", desarrollando un gestor documental desde cero y con las siguientes funcionalidades:
+# Gestor Documental
+Elaborado con la empresa "intuye.es", desarrollando un gestor documental desde cero y con las siguientes funcionalidades:
 
 -Página de acceso/login vinculada a una base de datos de phpMyAdmin.
 
@@ -10,7 +10,7 @@ Gestor_Documental elaborado con la empresa "intuye.es", desarrollando un gestor 
 -Un gestor de archivos parecido al Drive, que permite crear carpetas, subir archivos, borrarlos, ordenalos y compartirlos mediante correos electrónicos.
 
 English:
-Gestor_Documental developed with the company "intuye.es", developing a document manager from scratch and with the following functionalities:
+Developed with the company "intuye.es", developing a document manager from scratch and with the following functionalities:
 
 -Access/login page linked to a phpMyAdmin database.
 
