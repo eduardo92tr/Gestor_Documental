@@ -9,6 +9,8 @@ Developed with the company "intuye.es", developing a document manager from scrat
 
 -A file manager similar to Drive, which allows you to create folders, upload files, delete them, organize them and share them through emails.
 
+Spanish:
+
 Elaborado con la empresa "intuye.es", desarrollando un gestor documental desde cero y con las siguientes funcionalidades:
 
 -Página de acceso/login vinculada a una base de datos de phpMyAdmin.
